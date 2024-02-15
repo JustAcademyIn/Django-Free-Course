@@ -1,5 +1,5 @@
 # Django Free Course
-## [Django Free Course] (https://www.justacademy.co/course-detail/django-training)
+## [Django Free Course](https://www.justacademy.co/course-detail/django-training)
 A Django course is a structured program designed to teach individuals how to develop web applications using the Django framework, which is based on Python. Participants learn to build dynamic websites efficiently by understanding concepts such as models, views, templates, forms, and authentication. These courses typically include hands-on exercises, projects, and tutorials to help learners master Django's concepts and best practices in web development.
 
 ### To Download Our Brochure Click Here
@@ -26,10 +26,10 @@ Here are some free Django courses available in India along with brief explanatio
 
 These Django free course provide an excellent opportunity for aspiring web developers in India to learn the Django framework without any financial investment. Learners can choose the course that best suits their learning style and pace, and gain valuable skills in web development using Django.
 
-#### Get Details About The Course Only On [JustAcademy.] (https://www.justacademy.co/)
-#### To Join our FREE DEMO Session [Click Here] (https://www.justacademy.co/register-for-course-demo)
+#### Get Details About The Course Only On [JustAcademy.](https://www.justacademy.co/)
+#### To Join our FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
 #### This information is sourced from JustAcademy
 #### Contact Info:
 #### Roshan Chaturvedi
-#### Message us on Whatsapp: [+91 9987184296] (https://api.whatsapp.com/send?phone=9987184296)
+#### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=9987184296)
 #### Email id: info@justacademy.co
