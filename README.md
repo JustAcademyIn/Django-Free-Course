@@ -12,16 +12,16 @@ Here are some free Django courses available in India along with brief explanatio
 
 ### Browse their course link : https://www.justacademy.co/all-courses 
 
-### 2. Django Tutorial for Beginners by Telusko:
+### 2. Telusko:
    - Telusko, a well-known YouTube channel for programming tutorials, offers this Django free course. The course starts from the basics of Django, gradually progressing to more advanced topics such as authentication, forms, and deployment. It includes practical examples and coding demonstrations to help learners grasp Django concepts effectively.
 
-### 3. Django Web Development with Python by Corey Schafer:
+### 3. Corey Schafer:
    - Corey Schafer, a popular YouTuber and Python instructor, provides this Django free course. The course covers Django fundamentals, including models, views, templates, forms, and authentication. Corey's tutorials are known for their clear explanations and comprehensive coverage of Django concepts.
 
-### 4. Django Tutorials for Beginners by CodeWithHarry:
+### 4. CodeWithHarry:
    - CodeWithHarry offers a Django free course series on YouTube aimed at beginners. The course covers Django basics, such as setting up a project, creating models, views, and templates. It includes practical examples and coding exercises to help learners build a strong foundation in Django web development.
 
-### 5. Django for Beginners by Udemy (Free Preview):
+### 5. Udemy:
    - Udemy offers a free preview of Django for Beginners course, providing an introduction to Django framework. The course covers essential Django concepts like models, views, templates, and forms. While the full course may require payment, the free preview offers valuable insights into Django development for beginners.
 
 These Django free course provide an excellent opportunity for aspiring web developers in India to learn the Django framework without any financial investment. Learners can choose the course that best suits their learning style and pace, and gain valuable skills in web development using Django.
