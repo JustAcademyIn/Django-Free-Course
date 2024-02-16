@@ -11,7 +11,7 @@ Here are some free Django courses available in India along with brief explanatio
    - Choosing JustAcademy for Django training ensures expert-led instruction, hands-on projects, and a supportive learning community.If you are looking for Django free course then you can go for JustAcademy’s free demo session of it with interactive lessons and personalised feedback, JustAcademy offers a comprehensive learning experience tailored to individual needs, enhancing proficiency in Django web development efficiently.
 
 ### Browse their course link : https://www.justacademy.co/all-courses 
-#### To Join our FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
+### To Join our FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
 
 ### 2. Telusko:
    - Telusko, a well-known YouTube channel for programming tutorials, offers this Django free course. The course starts from the basics of Django, gradually progressing to more advanced topics such as authentication, forms, and deployment. It includes practical examples and coding demonstrations to help learners grasp Django concepts effectively.
